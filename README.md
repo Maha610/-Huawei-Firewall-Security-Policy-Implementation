@@ -12,7 +12,7 @@ This project demonstrates enterprise-grade network security using Huawei firewal
 - **Access Control**: Role-based traffic filtering and threat prevention
 
 ## 🔧Technical Implementation
-- **Firewall**: Huawei USG Series
+- **Firewall**: Huawei USG Series · Security Zones · Access Control · Network Security
 - **Simulation**: eNSP Platform
 
 ## 💡 Skills Demonstrated
